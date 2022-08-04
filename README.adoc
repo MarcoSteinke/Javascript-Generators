@@ -1,0 +1,6 @@
+# Javascript-Generators
+Basic repository which holds example code on how to use generators in javascript.
+
+## Try it:
+
+This website has been deployed to GitHub-Pages. You can try it here: https://marcosteinke.github.io/Javascript-Generators/[Visit GitHub Pages]
